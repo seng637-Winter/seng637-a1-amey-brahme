@@ -2,9 +2,9 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 10   |
 |-----------------|
-| Student 1 name                |   
+| Amey Brahme                |   
 | Student 2 name              |   
 | Student 3 name               |   
 | Student 4 name                |   
